@@ -2,4 +2,6 @@
 -	Cantábrico
 -	Báltico
 -	Mar-imaginario
+-	Mar-imaginario2
+-	Mar-imaginario3
 -	Nuevo-Mar
